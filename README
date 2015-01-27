@@ -1,6 +1,5 @@
-Basic useage: 
------------------
+<h2>Basic useage: </h2>
 
-`betterConsole.start()` to spice up your console
+<code>betterConsole.start()</code> to spice up your console
 
-`betterConsole.stop()` to make it lame again.
+<code>betterConsole.stop()</code> to make it lame again.
