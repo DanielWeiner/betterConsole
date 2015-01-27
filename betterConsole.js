@@ -4,7 +4,7 @@ var betterConsole = (function(){
 			"Check this shit out:",
 			"YO!",
 			"Fuck yeah,",
-			"OH DEAR GOT IT'S",
+			"OH DEAR GOD IT'S",
 			"It's a bird, it's a plane, it's"
 		];
 
