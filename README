@@ -1,0 +1,5 @@
+<h2>Basic useage: </h2>
+
+<code>betterConsole.start()</code> to spice up your console
+
+<code>betterConsole.stop()</code> to make it lame again.
